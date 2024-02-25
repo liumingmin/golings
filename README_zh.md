@@ -2,7 +2,12 @@
 
 [![build and test](https://github.com/mauricioabreu/golings/actions/workflows/test.yml/badge.svg)](https://github.com/mauricioabreu/golings/actions/workflows/test.yml)
 
+
 ![gopher](misc/gopher-dance.gif)
+
+
+ **其他语言版本: [English](README.md), [中文](README_zh.md)**
+
 
 `golings` 是一个针对 [Go 编程语言](https://go.dev/) 的 CLI 应用程序，旨在通过练习教授Go编程语言
 

@@ -4,6 +4,8 @@
 
 ![gopher](misc/gopher-dance.gif)
 
+ **Read this in other languages: [English](README.md), [中文](README_zh.md)**
+
 > rustlings but for golang this time
 
 You may know [rustlings](https://github.com/rust-lang/rustlings), right? If you don't, please go ahead and check out.
