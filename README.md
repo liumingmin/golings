@@ -22,7 +22,7 @@ There are two ways to install `golings`
 ### go install
 
 ```sh
-go install github.com/mauricioabreu/golings/golings@latest
+go install github.com/liumingmin/golings/golings@latest
 ```
 
 Add `go/bin` to your PATH if you want to run golings anywhere in your terminal. From the official docs:
@@ -31,7 +31,7 @@ Add `go/bin` to your PATH if you want to run golings anywhere in your terminal. 
 
 ### Binaries
 
-Go to the [releases page](https://github.com/mauricioabreu/golings/releases) and choose the option that best fits your environment.
+Go to the [releases page](https://github.com/liumingmin/golings/releases) and choose the option that best fits your environment.
 
 ### Web version (playground)
 
@@ -55,7 +55,7 @@ Now you have the task to fix all the programs. Some of them don't compile, and y
 Clone the repository:
 
 ```sh
-git clone git@github.com:mauricioabreu/golings.git
+git clone https://github.com/liumingmin/golings.git
 ```
 
 To run the exercises in the recommended order while taking advantage of fast feedback loop, use the _watch_ command:
