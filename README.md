@@ -6,7 +6,7 @@
 ![gopher](misc/gopher-dance.gif)
 
 
- **其他语言版本: [English](README.md), [中文](README_zh.md)**
+ **其他语言版本: [English](README_en.md), [中文](README.md)**
 
 
 `golings` 是一个针对 [Go 编程语言](https://go.dev/) 的 CLI 应用程序，旨在通过练习教授Go编程语言
@@ -105,9 +105,9 @@ golings --help
 
 ![demo](misc/demo.gif)
 
-## 贡献
+## 贡献练习题
 
-[CONTRIBUTING.md](./CONTRIBUTING.md)
+[贡献练习题](./CONTRIBUTING.md)
 
 ## 学习资源
 

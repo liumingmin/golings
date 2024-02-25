@@ -4,7 +4,7 @@
 
 ![gopher](misc/gopher-dance.gif)
 
- **Read this in other languages: [English](README.md), [中文](README_zh.md)**
+ **Read this in other languages: [English](README_en.md), [中文](README.md)**
 
 > rustlings but for golang this time
 
@@ -110,7 +110,7 @@ A demo running the command `golings run <exercise name>`
 
 ## Contributing
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md)
+See [CONTRIBUTING.md](./CONTRIBUTING_en.md)
 
 ## Learning resources
 
